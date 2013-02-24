@@ -1,5 +1,7 @@
 # My Archlinux Setup
 
+![Screenshot](https://github.com/patrickbajao/screenshot.png)
+
 ## Theme
 
 * Desktop Environment - [XFCE4](http://www.xfce.org/)
