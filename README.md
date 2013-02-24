@@ -7,7 +7,7 @@
 * GTK Theme - [Blackbird](https://aur.archlinux.org/packages/xfce-theme-blackbird/)
 * Font - [Droid Sans](https://aur.archlinux.org/packages/ttf-droid-sans/)
 * Title Font - [DejaVu Sans Book](https://www.archlinux.org/packages/extra/any/ttf-dejavu/)
-* Icon - [Faenza Darkest](https://www.archlinux.org/packages/community/any/faenza-icon-theme/)
+* Icon - [Faenza Darkest](https://www.archlinux.org/packages/community/any/faenza-icon-theme/) with [WICD Faenza Dark Icons](https://aur.archlinux.org/packages/wicd-faenza-dark-icons/)
 
 ### Specifics
 
