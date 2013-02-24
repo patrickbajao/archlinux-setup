@@ -1,6 +1,6 @@
 # My Archlinux Setup
 
-![Screenshot](https://github.com/patrickbajao/screenshot.png)
+![Screenshot](https://raw.github.com/patrickbajao/archlinux-setup/master/screenshot.png)
 
 ## Theme
 
