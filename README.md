@@ -19,6 +19,16 @@
 * Title font size: `8`
 * Title alignment: `Center`
 
+## Internet Applications
+
+To install commonly used internet applications like a browser and IM, run `install_internet_applications.sh` that can be found under `scripts/`
+
+```shell
+$ ./scripts/install_internet_applications.sh
+```
+
+Take note that this script runs with `sudo`.
+
 ## Disk Related Packages
 
 To be able to use removable devices, run `install_disk_packages.sh` that can be found under `scripts/`.
