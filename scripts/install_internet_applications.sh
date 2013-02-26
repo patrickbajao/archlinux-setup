@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo pacman -S firefox chromium pidgin transmission-gtk
+sudo pacman -S firefox chromium pidgin transmission-gtk wicd-gtk
