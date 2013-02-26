@@ -18,3 +18,13 @@
 * Hinting: `Full`
 * Title font size: `8`
 * Title alignment: `Center`
+
+## Disk Related Packages
+
+To be able to use removable devices, run `install_disk_packages.sh` that can be found under `scripts/`.
+
+```shell
+$ ./scripts/install_disk_packages.sh
+```
+
+Take note that this script runs with `sudo`.
