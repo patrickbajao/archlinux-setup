@@ -19,9 +19,19 @@
 * Title font size: `8`
 * Title alignment: `Center`
 
+## Development Tools
+
+To install development tools, run `install_development_tools.sh` that can be found under `scripts/`.
+
+```shell
+$ ./scripts/install_development_tools.sh
+```
+
+Take note that this script runs with `sudo`.
+
 ## Internet Applications
 
-To install commonly used internet applications like a browser and IM, run `install_internet_applications.sh` that can be found under `scripts/`
+To install commonly used internet applications like a browser and IM, run `install_internet_applications.sh` that can be found under `scripts/`.
 
 ```shell
 $ ./scripts/install_internet_applications.sh
